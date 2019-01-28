@@ -1,6 +1,7 @@
-# grufffta/ui - React components for [Bulma](https://bulma.io)
+# grufffta/react-bulma-uk - React components for [Bulma](https://bulma.io)
 
-Complete set of React components for the Bulma css library.
+Complete set of React components for the Bulma css library. This is work in progress, everything is implemented but the 
+forms controls may need further work and more examples.
 
 To get started run ```yarn styleguide``` and browse the documentation.
 
