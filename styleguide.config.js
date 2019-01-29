@@ -9,6 +9,6 @@ module.exports = {
     webpackConfig: config('development', { devtool: 'source-map' }),
     require: [
         path.join(__dirname, 'src/components/base.scss'),
-        path.join(__dirname, 'node_modules/@fortawesome/fontawesome-pro/css/all.min.css')
+        path.join(__dirname, 'node_modules/@fortawesome/fontawesome-free/css/all.min.css')
     ]
 }

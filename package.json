@@ -27,7 +27,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "@fortawesome/fontawesome-pro": "^5.6.3",
+    "@fortawesome/fontawesome-free": "^5.7.0",
     "@storybook/addon-info": "^4.1.9",
     "@types/classnames": "^2.2.7",
     "@types/jest": "^23.3.13",
