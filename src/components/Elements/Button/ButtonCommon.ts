@@ -50,6 +50,7 @@ function getButtonStyle(props: ButtonStyleOwnProps) {
     { 'is-outlined': props.outlined },
     { 'is-inverted': props.inverted },
     { 'is-rounded': props.rounded },
+    { 'is-fullwidth': props.fullwidth },
     { 'is-selected': props.selected }
   ]
 }
