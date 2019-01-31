@@ -1,7 +1,6 @@
 {
   "compilerOptions": {
     "target": "es5",
-    "allowJs": true,
     "skipLibCheck": false,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
@@ -17,9 +16,10 @@
       "dom",
       "dom.iterable",
       "esnext"
-    ]
+    ],
+    "allowJs": true
   },
   "include": [
-    "src"
+    "src/**/*"
   ]
 }

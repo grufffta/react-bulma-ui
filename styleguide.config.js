@@ -1,6 +1,5 @@
 const path = require('path')
 const config = require('react-scripts/config/webpack.config.js')
-console.log(config(e => { devtool: 'source-map' }))
 module.exports = {
     propsParser: require('react-docgen-typescript').withCustomConfig('./tsconfig.json', (props, component) => true).parse,
     ignore: [
