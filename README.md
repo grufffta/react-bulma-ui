@@ -3,7 +3,10 @@
 Complete set of React components for the Bulma css library. This is work in progress, everything is implemented but the 
 forms controls may need further work and more examples.
 
-To get started run ```yarn styleguide``` and browse the documentation.
+View the docs and examples (some elements repeat themselves at the moment, hope to fix this soon here.
+They are available here [Styleguide Docs](https://grufffta.github.io/react-bulma-ui)
+
+If you prefer to work with the code you can get started by running ```yarn styleguide``` and browse the documentation.
 
 I don't do much frontend work and haven't used styleguide much to really dive into the configuration.
 Currently components are repeated multiple times as the same md file is being picked up and repeated for each element in the folder.
